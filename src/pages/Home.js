@@ -3,7 +3,7 @@ import React from "react";
 const Home = () => {
   return (
     <div>
-      <h1>Home</h1>
+      <h1>Home in React</h1>
       <p>
         Id tempor ad dolore in mollit duis nostrud duis non sit excepteur
         reprehenderit fugiat nisi. Ex duis nisi pariatur ea nostrud cupidatat.
